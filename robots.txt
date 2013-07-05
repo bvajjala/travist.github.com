@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://travist.github.io/sitemap.xml 
