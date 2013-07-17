@@ -4,7 +4,7 @@
   <title><![CDATA[Travis Tidwell]]></title>
   <link href="http://travist.github.io/atom.xml" rel="self"/>
   <link href="http://travist.github.io/"/>
-  <updated>2013-07-05T15:28:59-05:00</updated>
+  <updated>2013-07-16T22:34:00-05:00</updated>
   <id>http://travist.github.io/</id>
   <author>
     <name><![CDATA[Travis Tidwell]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Coder Soundtrack volume 2]]></title>
+    <link href="http://travist.github.io/blog/2013/07/16/coder-soundtrack-volume-2/"/>
+    <updated>2013-07-16T21:57:00-05:00</updated>
+    <id>http://travist.github.io/blog/2013/07/16/coder-soundtrack-volume-2</id>
+    <content type="html"><![CDATA[<p>As most of you already know, I am a big fan of music and am a firm believer that
+a good coder listens to music while they code.  For that reason, I am releasing
+my Coder Soundtrack volume 2 which is the latest of the music that I am listing
+to while I code.  I hope you enjoy&#8230;</p>
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F7868312"></iframe>
+
+
+<p></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Using Phantom.js with Node.js]]></title>
